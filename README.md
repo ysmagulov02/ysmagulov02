@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ysmagulov02
 - 👀 I’m interested in Software Engineering 
-- 🌱 I’m currently learning Programming in C and C++, Data Structures and Algorithms, and Web Application
+- 🌱 I'm currently a third-year computer science student at University of California, Santa Cruz
 - 📫 How to reach me:
   Email: yernar.smagulov02@gmail.com
   Phone: 510-307-6336
