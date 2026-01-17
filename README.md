@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ysmagulov02
-- 👀 I’m interested in Software Engineering 
-- 🌱 I'm a graduate computer science student from University of California, Santa Cruz
 - 📫 How to reach me:
   Email: yernar.smagulov02@gmail.com
   Phone: 510-307-6336
